@@ -1,0 +1,89 @@
+{
+  "dna": "850cc1667714316818eec58c25e842e5476fd16a",
+  "name": "#9",
+  "description": "Blocks and Cryps are Solana’s first ever single collection of rival gangster crews. There’s 4002 of them roaming the Metaghetto, led by Tha Blockfather and Tha Crypfather.",
+  "image": "image.png",
+  "edition": 9,
+  "date": 1636404645543,
+  "seller_fee_basis_points": 500,
+  "symbol": "BACS",
+  "collection": {
+    "name": "Blocks and Cryps"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ERn7LWMwCYJkJVBhH5aX3aSBMpkqzX5kHdfArhRHcReb",
+        "share": 50
+      },
+      {
+        "address": "EMfqZV8h5tewy6ubEoSU6LGFbVgDqAn7k69Jw9ZpqvKD",
+        "share": 50
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue and Pink",
+      "trait_count": 354
+    },
+    {
+      "trait_type": "Character",
+      "value": "White Skin",
+      "trait_count": 1996
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Bitcoin Tattoo",
+      "trait_count": 929
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes",
+      "trait_count": 1682
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Wavy Hair",
+      "trait_count": 391
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal Mouth",
+      "trait_count": 3231
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "White Tracksuit",
+      "trait_count": 522
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "3D Glasses",
+      "trait_count": 367
+    },
+    {
+      "trait_type": "Neck accessories",
+      "value": "Black Chain with Bitcoin Symbol",
+      "trait_count": 1043
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Red Bandana Tied Around Head",
+      "trait_count": 656
+    },
+    {
+      "trait_type": "Left hand",
+      "value": "Green Alcohol Bottle",
+      "trait_count": 381
+    }
+  ]
+}

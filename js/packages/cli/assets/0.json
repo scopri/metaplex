@@ -1,0 +1,60 @@
+{
+  "dna": "d224a104e7ec192785284dc49a59c3913ea50747",
+  "name": "#0",
+  "symbol": "",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "image.png",
+  "edition": 0,
+  "date": 1634075506031,
+  "seller_fee_basis_points": 200,
+  "collection": {
+    "name": "blah",
+    "family": "ddddd"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ERn7LWMwCYJkJVBhH5aX3aSBMpkqzX5kHdfArhRHcReb",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

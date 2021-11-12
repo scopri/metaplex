@@ -1,0 +1,94 @@
+{
+  "dna": "993e850da88d9889eecb9a5453b222c6a92a86e9",
+  "name": "#7",
+  "description": "Blocks and Cryps are Solana’s first ever single collection of rival gangster crews. There’s 4002 of them roaming the Metaghetto, led by Tha Blockfather and Tha Crypfather.",
+  "image": "image.png",
+  "edition": 7,
+  "date": 1636404645251,
+  "seller_fee_basis_points": 500,
+  "symbol": "BACS",
+  "collection": {
+    "name": "Blocks and Cryps"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ERn7LWMwCYJkJVBhH5aX3aSBMpkqzX5kHdfArhRHcReb",
+        "share": 50
+      },
+      {
+        "address": "EMfqZV8h5tewy6ubEoSU6LGFbVgDqAn7k69Jw9ZpqvKD",
+        "share": 50
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple",
+      "trait_count": 356
+    },
+    {
+      "trait_type": "Character",
+      "value": "Black Skin",
+      "trait_count": 972
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Sol and YOLO Tattoo",
+      "trait_count": 423
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes",
+      "trait_count": 326
+    },
+    {
+      "trait_type": "Goatee",
+      "value": "Blonde Goatee",
+      "trait_count": 973
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink Punk Hair",
+      "trait_count": 151
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal Mouth",
+      "trait_count": 3231
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Gold Tracksuit",
+      "trait_count": 329
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "Gold Monocle",
+      "trait_count": 356
+    },
+    {
+      "trait_type": "Neck accessories",
+      "value": "Black Chain with Bitcoin Symbol",
+      "trait_count": 1043
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Blue Bandana Tied Around Head",
+      "trait_count": 634
+    },
+    {
+      "trait_type": "Left hand",
+      "value": "Baseball Bat",
+      "trait_count": 387
+    }
+  ]
+}

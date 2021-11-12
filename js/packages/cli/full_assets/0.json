@@ -1,0 +1,94 @@
+{
+  "dna": "1c3f14f990968b301ab8a3e17921943973432e2c",
+  "name": "#5",
+  "description": "Blocks and Cryps are Solana’s first ever single collection of rival gangster crews. There’s 4002 of them roaming the Metaghetto, led by Tha Blockfather and Tha Crypfather.",
+  "image": "image.png",
+  "edition": 5,
+  "date": 1636404644933,
+  "seller_fee_basis_points": 500,
+  "symbol": "BACS",
+  "collection": {
+    "name": "Blocks and Cryps"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ERn7LWMwCYJkJVBhH5aX3aSBMpkqzX5kHdfArhRHcReb",
+        "share": 50
+      },
+      {
+        "address": "EMfqZV8h5tewy6ubEoSU6LGFbVgDqAn7k69Jw9ZpqvKD",
+        "share": 50
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue",
+      "trait_count": 314
+    },
+    {
+      "trait_type": "Angel",
+      "value": "Angel Wings Black",
+      "trait_count": 33
+    },
+    {
+      "trait_type": "Character",
+      "value": "Brown Skin",
+      "trait_count": 1033
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "YOLO Tattoo",
+      "trait_count": 958
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes",
+      "trait_count": 1702
+    },
+    {
+      "trait_type": "Goatee",
+      "value": "Brown Goatee",
+      "trait_count": 1030
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black Wavy Hair",
+      "trait_count": 152
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal Mouth",
+      "trait_count": 3231
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Gold Suit",
+      "trait_count": 86
+    },
+    {
+      "trait_type": "Neck accessories",
+      "value": "Black Chain with Bitcoin Symbol",
+      "trait_count": 1043
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Red Bandana Half Face",
+      "trait_count": 318
+    },
+    {
+      "trait_type": "Left hand",
+      "value": "Money",
+      "trait_count": 1308
+    }
+  ]
+}
